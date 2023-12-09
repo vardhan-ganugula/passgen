@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #0366d6;
-        }
-        p {
-            color: #24292e;
-        }
-        code {
-            background-color: #f6f8fa;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Password Generator</h1>
+ <h1>Password Generator</h1>
 
     <p>A simple Python script to generate secure and customizable passwords. The Password Generator allows you to create passwords with options for uppercase, lowercase, numbers, and special characters. The generated password can be copied to the clipboard for easy use.</p>
 
@@ -56,5 +31,5 @@ print(password)
 
     <p>Feel free to use and customize this password generator for your needs! 🚀🔐</p>
 
-</body>
-</html>
+
+
